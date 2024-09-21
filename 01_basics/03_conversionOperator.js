@@ -16,4 +16,9 @@ let isLoggedIn ="ss"
 let booleanInLoggedIn = Boolean(isLoggedIn)
 //console.log(booleanInLoggedIn)
 
+let someNumber =33
+
+let stringNumber = String(someNumber)
+console.log(stringNumber)
+console.log(typeof stringNumber)
 
